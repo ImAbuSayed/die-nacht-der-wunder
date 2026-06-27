@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-nacht-der-wunder/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Die Nacht der Wunder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-nacht-der-wunder/) |
+| **Get License** | [Commercial Licensing for Die Nacht der Wunder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-nacht-der-wunder/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e743a0c1d196e3a55825ed5757115bd479d3bba5e03b24005758c9080a065e02` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
