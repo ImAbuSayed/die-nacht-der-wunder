@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-nacht-der-wunder/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Die Nacht der Wunder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-nacht-der-wunder/) |
+| **Get License** | [Obtain a Music License for Die Nacht der Wunder](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-nacht-der-wunder/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir zwei durch die Stadt, Baby, nur du und ich
+> Das Neonlicht blendet, doch ich seh' nur dein Gesicht
+> Der Bass drückt im Wagen, die Nacht ist noch jung
+> Gib mir nur ein Zeichen und wir nehmen den Schwung
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
